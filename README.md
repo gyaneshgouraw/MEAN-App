@@ -13,9 +13,7 @@
 
 2)write node server.js 
 
-3)npm install
-
-4)go to browser and open http://localhost:3002
+3)go to browser and open http://localhost:3002
 
 
 
